@@ -1,0 +1,73 @@
+.containerbox{
+    background-color: grey;
+    width: 100%;
+    height: 800px;
+    position: absolute;
+    z-index: 1;
+  }
+  .navigationbar{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    position: absolute;
+    top: 1px;
+    z-index: 1px;
+    border: solid black;
+  }
+  .blackbox{
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    right: 2px;
+    background-color: black;
+  }
+  .footer{
+    position: absolute;
+    width: 100%;
+    height: 80px;
+    border-top: 2px;
+    border-color: solid black;
+    top: 800px;
+    z-index: 1px;
+    background-color: white;
+  }
+  .boxone{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+    position: absolute;
+    right: 50px;
+    top: 70px;
+    border: dotted pink;
+  }
+  .boxtwo{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+    position: absolute;
+    left: 50px;
+    top: 70px;
+    border: dotted pink;
+  }
+  .boxthree{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+    position: absolute;
+    right: 50px;
+    top: 550px;
+    border: dotted pink;
+  }
+  .boxfour{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+    position: absolute;
+    left: 50px;
+    top: 550px;
+    border: dotted pink;
+  }
